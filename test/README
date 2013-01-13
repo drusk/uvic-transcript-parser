@@ -1,0 +1,2 @@
+Note: most of the test cases developed had to be removed before making open
+source because they were using real transcripts to test the parser.

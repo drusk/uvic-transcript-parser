@@ -1,0 +1,5 @@
+To parse transcripts, go to the src directory and run 'run_cmdln.py'.
+It will prompt for inputs as necessary.
+
+To generate a CSV file of first year records, go to the parser directory and 
+run 'first_year_csv.py'.  It will also prompt for input files.
