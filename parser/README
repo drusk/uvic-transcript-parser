@@ -1,0 +1,6 @@
+TODOs
+-----
+* Graphical user interface to make selecting file system locations less 
+  tedious.
+* Replace csv_util with standard library.
+* Restucture package.
