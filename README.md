@@ -4,7 +4,7 @@ uvic-transcript-parser
 Parses plain text UVic transcripts into an SQLite database and allows
 exporting data to a CSV file.
 
-This was done as part of CENG 499, capstone project, at UVic
+This was done as part of CENG 499, the capstone project, at UVic
 (http://www.ece.uvic.ca/~elec499/2012-summer/Project_Summaries.shtml).
 The end goals of the project were to: 
 
